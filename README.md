@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings🌹
 
 
 - I am currently pursuing my BE degree in computer science from D Y Patil College of Engineering.

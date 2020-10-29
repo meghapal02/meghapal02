@@ -14,7 +14,7 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=meghapal02&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meghapal02&layout=compact)
 
-### ⚒ Languages and Tools 
+### Languages and Tools 
 
 <img  align="left" width="45px" src="https://img.icons8.com/color/60/000000/c-programming.png"/>
 

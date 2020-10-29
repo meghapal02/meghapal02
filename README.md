@@ -32,5 +32,5 @@
 [linkedin]: https://www.linkedin.com/in/megha-pal-92a2231a4/
 [github]:  https://github.com/meghapal02
 [twitter]:  https://twitter.com/megha_pal02
-[mail]: mailto: mmeghapal9@gmail.com
+[mail]: mailto:mmeghapal9@gmail.com
 [instagram]: https://instagram.com/megha_pal02?igshid=pg18ibm6jqew

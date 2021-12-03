@@ -2,13 +2,7 @@
 
 
 - I am currently pursuing my BE degree in computer science from D Y Patil College of Engineering.
-- My techincal aspcets of interest are :
-
- ~ Competitive Programming
-
- ~ Web Development
-
- ~ Data Science
+- I am also pursuing my degree in Honours (Data Science).
 
  
 ![github stats](https://github-readme-stats.vercel.app/api?username=meghapal02&show_icons=true&theme=gruvbox)

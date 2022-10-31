@@ -1,9 +1,6 @@
 ## Greetings🌹
 
 
-- I am currently pursuing my BE degree in computer science from D Y Patil College of Engineering.
-- I am also pursuing my degree in Honours (Data Science).
-
  
 ![github stats](https://github-readme-stats.vercel.app/api?username=meghapal02&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meghapal02&layout=compact)
